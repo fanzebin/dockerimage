@@ -1,1 +1,1 @@
-From quay.io/prometheus/prometheus
+From prometheus/prometheus
