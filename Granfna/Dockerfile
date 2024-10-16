@@ -1,1 +1,1 @@
-From prom/prometheus
+From grafana/grafana-enterprise
